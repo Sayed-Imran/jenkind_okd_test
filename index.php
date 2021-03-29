@@ -1,5 +1,5 @@
 <?php
 
-print "My scond commit..!!!"
+print `/usr/sbin/ifconfig`;
 
 ?>
